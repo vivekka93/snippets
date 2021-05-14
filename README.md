@@ -1,1 +1,1 @@
-Practice code
+Implementations of data structures in Python, along with my attempts at programming practice like Euler
